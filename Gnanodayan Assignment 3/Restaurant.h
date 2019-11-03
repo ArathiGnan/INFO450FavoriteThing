@@ -12,7 +12,7 @@ private:
 	int cost;
 	int rating;
 public:
-	Restaurant();
+	Restaurant(); 
 	Restaurant(string n, string c, string f, int m, int r);
 	string getName();
 	string getCuisine();
