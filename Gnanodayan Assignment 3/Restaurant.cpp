@@ -19,7 +19,7 @@ Restaurant::Restaurant(string n, string c, string f, int m, int r)
 	cost = m;
 	rating = r;
 }
-string Restaurant::getName()
+string Restaurant::getName() 
 {
 	return name;
 }
